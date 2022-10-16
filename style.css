@@ -429,7 +429,7 @@ label{
     .navBottom{
         flex-wrap: wrap;
         font-weight: 500;
-        font-size: 15px;
+        font-size: 10px;
     }
 
     .navItem:nth-child(1) img{
