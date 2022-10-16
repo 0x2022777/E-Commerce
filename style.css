@@ -421,7 +421,6 @@ label{
 
 @media screen and (max-width: 480px){
     nav{
-        background-color: red;
         padding: 20px;
     }
     .search{
